@@ -1,0 +1,23 @@
+.main-bar{
+    display: float;
+}
+
+.form{
+    float: left;
+    width: 30%;
+    margin-left: 2rem;
+    /* display: inline; */
+}
+.employees-list{
+    float: left;
+    width: 60%;
+    /* margin: 0; */
+    /* display: inline; */
+}
+.record{
+    display: flex;
+}
+.record p{
+    margin-right: 1rem;
+    display: float;
+}
